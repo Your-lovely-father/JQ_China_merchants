@@ -1,0 +1,865 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 1680px) {
+  .news_list_date h2 {
+    font-size: 38px;
+  }
+  .join_list li {
+    margin-top: 10%;
+  }
+  .join_list li h3 {
+    font-size: 18px;
+  }
+   .nav_list li {
+    font-size: 14px;
+    padding: 0 31px;
+  }
+}
+@media only screen and (max-width: 1440px) {
+  .wrap_box {
+    font-size: 14px;
+  }
+  .main_nav li.active {
+  background-size: 30px;
+  height: 79px;
+}
+.main_nav li:hover {
+  background-size: 30px;
+  height: 79px;
+}
+  .news_text_con {
+    line-height: 28px;
+  }
+  .news_text_con > div {
+    height: 56px;
+  }
+  .news_list li {
+    margin-bottom: 5% ;
+  }
+  .news_list_date h2 {
+    font-size: 30px;
+  }
+  .news_list_date p {
+    font-size: 12px;
+  }
+  .news_list_con > div {
+    line-height: 24px;
+    height: 48px;
+    margin: 0;
+  }
+  .city_con::after{
+    display: none;
+  }
+  .city_con h2 {
+    font-size: 18px ;
+  }
+  .city_con p b {
+    font-size: 28px;
+  }
+  .pro_text h3 {
+    font-size: 24px;
+  }
+  .contact_list li h3 {
+    font-size: 14px;
+  }
+  .message_con > div .user {
+    font-size: 14px;
+  }
+  .mes_btn {
+    font-size: 14px;
+  }
+  .main_head .content {
+    height: 70px;
+  }
+  .main_nav li {
+    padding: 3.5% 0 0;
+  }
+  .subnav{
+    padding: 5% 0 0;
+    left: -65%;
+  }
+  .main {
+    height: calc(100% - 90px);
+  }
+  .main_box {
+    height: 380px;
+  }
+  .m_about_txt {
+    height: 300px;
+  }
+  .m_development {
+    margin: 1% auto 0;
+  }
+  .m_development li h2 {
+    font-size: 16px;
+  }
+  .m_development_con p {
+    line-height: 20px;
+  }
+  .m_job li > h3 {
+    font-size: 16px;
+  }
+  .m_job li .m_job_tit {
+    height: 300px;
+  }
+  .m_job li .m_job_con .m_job_txt {
+    height: 264px;
+  }
+  .m_job li .m_job_con .m_job_txt > div {
+    line-height: 24px;
+    height: 192px;
+  }
+  .m_job li .job_tel {
+    line-height: 29px;
+    font-size: 12px;
+  }
+  .m_join_tit {
+    font-size: 24px;
+  }
+  .m_join_list li {
+    margin-bottom: 2%;
+  }
+  .m_join_list li img {
+    width: 40px;
+  }
+  .m_join_list li h4 {
+    font-size: 24px;
+  }
+  .m_marking_con {
+    width: 43.44262295%;
+  }
+  .m_marking_con h4 {
+    font-size: 24px;
+  }
+  .m_marking_con > div {
+    font-size: 14px;
+  }
+  .m_contact_list li {
+    font-size: 14px;
+
+  }
+  .m_contact_list li img {
+    width: 25px;
+    height: 0.26rem;
+  }
+  .address {
+    margin-top: -1.4%;
+}
+  .m_news
+  {
+    min-height: 290px;
+  }
+  .m_news .m_news_con h3 span
+  {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  .news_text_tit {
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 1366px) {
+  .wrap_box {
+    font-size: 12px;
+  }
+  .m_news .m_news_con > div {
+    font-size: 12px;
+    line-height: 22px;
+    height: 52px;
+    margin: 1% 0 0;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    padding: 5px;
+  }
+  .m_join_tit {
+    font-size: 20px;
+  }
+  .m_join_list li img {
+    width: 30px;
+  }
+  .m_join_list li h4 {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .news_list_date h2 {
+    font-size: 24px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .navBar {
+    display: none;
+  }
+  .phone_main {
+    display: block;
+  }
+  .pc_main {
+    display: none;
+  }
+  .page1 {
+    background: url('../images/nav.png') no-repeat;
+    background-size: 100% 100%;
+  }
+  /* .page2 {
+    background: url("../images/phone_bg02.jpg") no-repeat;
+    background-size: 100% 100%;
+  } */
+  .page3 {
+    background: url("../images/phone_bg03.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg03.jpg*/ no-repeat;
+    background-size: 100% 100%;
+  }
+  .page4 {
+    background: url("../images/news-bg.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg04.jpg*/ no-repeat;
+    background-size: 100% 100%;
+  }
+  /* .page5 {
+    background: #000;
+  } */
+  .page6 {
+    background: url("../images/jiameng-bg.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg06.jpg*/ no-repeat;
+    background-size: 100% 100%;
+  }
+  .page7 {
+    background: url("../images/phone_bg07.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg07.jpg*/ no-repeat;
+    background-size: 100% 100%;
+  }
+  .wrap_box {
+    font-size: 0.24rem;
+    line-height: 1.7;
+  }
+  .content {
+    width: 7.2rem;
+  }
+  .phone_page_nav {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 990;
+    background: #f4d122;
+    display: none;
+  }
+  .phone_nav_list {
+    padding: 20% 0 0;
+    font-size: 0.3rem;
+  }
+  .phone_nav_list li {
+    line-height: 2.5;
+  }
+  .phone_nav_close {
+    width: 0.4rem;
+    height: 0.4rem;
+    font-size: 0.4rem;
+    right: 0.2rem;
+    top: 0.3rem;
+    border-radius: 100%;
+    line-height: 0.34rem;
+    border: solid 0.02rem #fff;
+  }
+  .phone_header {
+    width: 100%;
+    background:#f4d122;
+    height: 1.2rem;
+    padding: 0 0.15rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9;
+  }
+  .phone_logo {
+    width: 3.46rem;
+  }
+  .phone_menu {
+    width: 0.43rem;
+  }
+  .phone_footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: #f4d122 ;
+    z-index: 9;
+  }
+  .phone_footer>ul{
+    display: flex;
+    justify-content: center;
+  }
+  .phone_footer li {
+    width: 25%;
+    text-align: center;
+    padding: 0.2rem 0;
+  }
+  .phone_footer li img {
+    width: 0.35rem;
+  }
+  .phone_footer li p {
+    color: #fff;
+    line-height: 0.54rem;
+  }
+  .mouse {
+    bottom: 10%;
+  }
+  .mouse img {
+    width: 0.22rem;
+  }
+  .mouse p {
+    font-size: 0.24rem;
+    line-height: 0.42rem;
+  }
+  .logo_box {
+    width: 5.3rem;
+  }
+  .biglogo,
+  .tel {
+    width: 100%;
+  }
+  .tel {
+    margin: 10% 0 6%;
+  }
+  .brand {
+    width: 6.2rem;
+  }
+  .brand li {
+    width: 1.9rem;
+  }
+  .family {
+    width: 4.65rem;
+    margin-right: 1.95rem;
+    margin-top: -5rem;
+  }
+  .page3 .content {
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+  }
+  .development_box,
+  .about_box {
+    width: 100%;
+  }
+  .development_box {
+    margin: 13% 0 0;
+  }
+  .about_con {
+    line-height: 0.46rem;
+    height: 2.3rem;
+    overflow: hidden;
+  }
+  .more {
+    width: 1.45rem;
+    height: 0.37rem;
+    line-height: 0.37rem;
+  }
+  .development_tit {
+    width: 2.04rem;
+    margin: 2% 0 0;
+  }
+  .development_list {
+    width: 4.45rem;
+    background: url("../images/bor.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/bor.png*/ no-repeat 0.4% top;
+    background-size: 0.17rem;
+  }
+  .development_list .swiper-container {
+    height: 4.7rem;
+  }
+  .development_list ul li {
+    height: auto;
+  }
+  .development_list ul li h3 {
+    font-size: 0.28rem;
+  }
+  .development_list ul li .development_con {
+    background: url("../images/dot.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/dot.png*/ no-repeat left 0.13rem;
+    background-size: 0.2rem;
+    padding-left: 12%;
+  }
+  .development_list ul li .development_con span {
+    border-radius: 0.1rem;
+    padding: 0.1rem 0.2rem;
+  }
+  .development_list ul li .development_con span::after {
+    top: 0.15rem;
+    left: -0.12rem;
+    border-top: 0.06rem solid transparent;
+    border-right: 0.12rem solid #fff;
+    border-bottom: 0.06rem solid transparent;
+  }
+  .bear {
+    width: 2.6rem;
+  }
+  .page4 .content {
+    flex-direction: column;
+  }
+  .news_l,
+  .news_list {
+    width: 100%;
+  }
+  .news_tit {
+    width: 2.1rem;
+    margin-left: 0.35rem;
+  }
+  .news_pic {
+    width: 3.92rem;
+  }
+  .news_pic img {
+    border-radius: 0.1rem;
+  }
+  .news_text_tit {
+    font-size: 0.24rem;
+  }
+  .news_text_con {
+    line-height: 0.4rem;
+    height: 1.1rem;
+  }
+  .news_text_con > div {
+    height: 0.8rem;
+  }
+  .news_list li {
+    margin-bottom: 0.1rem;
+  }
+  .news_list li:nth-child(3) {
+    display: none;
+  }
+  .news_list_date {
+    width: 1.5rem;
+  }
+  .news_list_date h2 {
+    font-size: 0.54rem;
+  }
+  .news_list_date p {
+    font-size: 0.2rem;
+  }
+  .news_list_con {
+    width: 5.45rem;
+  }
+  .news_list_con h3 span {
+    width: 96%;
+    font-size: 0.21rem;
+    padding: 0 0.1rem;
+  }
+  .news_list_con h3 > div {
+    font-size: 0.21rem;
+    line-height: 0.38rem;
+    height: 0.76rem;
+    margin: 0.15rem 0 0;
+  }
+  .phone_pro_list li {
+    width: 50%;
+    position: relative;
+  }
+  .phone_pro_list li:nth-child(even) {
+    animation-name: fadeInLeft;
+  }
+  .phone_pro_list li:nth-child(odd) {
+    animation-name: fadeInRight;
+  }
+  .pro_con {
+    background-size: 1.17rem 1.09rem;
+    padding: 0.14rem;
+    transform: scale(0, 0);
+  }
+  .pro_con h3 {
+    font-size: 0.36rem;
+  }
+  .pro_con span {
+    font-size: 0.21rem;
+    background: #fff;
+    color: #e60021;
+    width: 1.44rem;
+    height: 0.37rem;
+    border-radius: 0.1rem;
+    line-height: 0.37rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .pro_con.current {
+    transform: scale(1, 1);
+  }
+  .pro_pic {
+    width: 1.78rem;
+  }
+  .phone_pro_bg {
+    height: 33.33333333vh;
+  }
+  .page6 .content {
+    flex-direction: column;
+  }
+  .map {
+    width: 6.31rem;
+    margin: 0 auto;
+  }
+  .city_con {
+    width: 4.22rem;
+    height: 1rem;
+    border-radius: 0.1rem;
+    margin-left: -1.9rem;
+  }
+  .city_con:after {
+    top: -0.2rem;
+    border-left: 0.1rem solid transparent;
+    border-right: 0.1rem solid transparent;
+    border-bottom: 0.2rem solid #fff;
+  }
+  .city_con h2 {
+    font-size: 0.32rem;
+    line-height: 1.5;
+  }
+  .city_con p {
+    font-size: 0.21rem;
+    line-height: 1.2;
+  }
+  .city_con p b {
+    font-size: 0.32rem;
+  }
+  .city_con1,
+  .city_con2,
+  .city_con4,
+  .city_con7,
+  .city_con11,
+  .city_con12,
+  .city_con13,
+  .city_con14 {
+    right: 0;
+    left: auto;
+  }
+  .join {
+    width: 100%;
+    margin: 2% 0 0;
+  }
+  .join_list li {
+    margin: 2% 0 0;
+  }
+  .join_list li:hover h3 {
+    background-size: 0.1rem;
+  }
+  .join_list li h3 {
+    font-size: 0.32rem;
+    background-size: 0.1rem;
+    padding-left: 0.3rem;
+  }
+  .join_list li p {
+    font-size: 0.21rem;
+    padding-left: 0.3rem;
+  }
+  .contact_list {
+    width: 7.2rem;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+  .contact_list li h3 {
+    font-size: 0.21rem;
+    line-height: 1.5;
+  }
+  .message {
+    width: 100%;
+    padding: 60% 0 0;
+  }
+  .message_tel {
+    width: 5.86rem;
+    margin: 0;
+  }
+  .message_con {
+    width: 6.6rem;
+    margin: 0 auto;
+    float: none;
+  }
+  .message_con > div img {
+    width: 0.46rem;
+    margin-right: 0.2rem;
+  }
+  .message_con > div .user {
+    width: 5.6rem;
+    font-size: 0.23rem;
+  }
+  .mes_btn {
+    width: 1.36rem;
+    height: 0.4rem;
+    border: solid 0.02rem #fff;
+    line-height: 0.36rem;
+    font-size: 0.21rem;
+  }
+  .main_bg {
+    background: url("../images/phone_main_bg.jpg")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_main_bg.jpg*/ no-repeat;
+    background-size: 100% 100%;
+  }
+  .type {
+    width: 100%;
+  }
+  .type .swiper-container {
+    width: 6.15rem;
+  }
+  .type ul {
+    justify-content: start;
+  }
+  .type li {
+    width: 3.27rem;
+    background: url("../images/phone_type1.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type1.png*/ no-repeat;
+    background-size: 100% 100%;
+    font-size: 0.21rem;
+    height: 0.5rem;
+    line-height: 2.3;
+  }
+  .type li:hover {
+  background: url("../images/phone_type2.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type2.png*/ no-repeat;
+  background-size: 100% 100%;
+}
+.type li.active {
+  background: url("../images/phone_type2.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type2.png*/ no-repeat;
+  background-size: 100% 100%;
+}
+  .type li .swiper-button-prev,
+  .type li .swiper-button-next {
+    width: 0.2rem;
+    padding-bottom: 3.88888889%;
+  }
+  .main {
+    height: calc(100% - 1.2rem - 1.4rem);
+    bottom: 1.4rem;
+  }
+  .main_box {
+    height: 8.7rem;
+    border-radius: 0.08rem;
+    margin: 0.3rem 0 0;
+  }
+  .phone_m_development {
+    width: 5.75rem;
+    margin: 0 auto;
+    padding: 0.8rem 0 0;
+  }
+  .phone_m_development .swiper-container {
+    width: 4.45rem;
+  }
+  .phone_m_development .swiper-button-prev,
+  .phone_m_development .swiper-button-next {
+    width: 0.65rem;
+    height: 0.32rem;
+    top: 52%;
+    margin: 0;
+  }
+  .phone_m_development .swiper-button-prev {
+    background: url("../images/main13.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/main13.png*/ no-repeat;
+    background-size: 100%;
+  }
+  .phone_m_development .swiper-button-next {
+    background: url("../images/main14.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/main14.png*/ no-repeat;
+    background-size: 100%;
+  }
+  .phone_m_development li {
+    margin-bottom: 0.3rem;
+  }
+  .phone_m_development li .phone_m_development_con {
+    text-align: center;
+    flex-direction: column;
+  }
+  .phone_m_development li .phone_m_development_con p {
+    font-size: 0.21rem;
+    margin: 0.1rem 0;
+  }
+  .phone_m_development li .phone_m_development_con img {
+    width: 0.58rem;
+    margin: 0 auto;
+  }
+  .phone_m_development li .phone_m_development_con em {
+    width: 0.02rem;
+    height: 0.6rem;
+    background: #e60021;
+    display: block;
+    margin: 0 auto;
+  }
+  .phone_m_development li .phone_m_development_con > div {
+    background: url("../images/phone_year.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_year.png*/ no-repeat;
+    background-size: 100%;
+    width: 2.34rem;
+    height: 0.42rem;
+    margin: 0 auto;
+  }
+  .phone_m_development li:nth-child(even) .phone_m_development_con {
+    flex-direction: column-reverse;
+  }
+  .main_bear {
+    width: 2.6rem;
+    bottom: -0.8rem;
+  }
+  .main_brand {
+    width: 1.75rem;
+    bottom: 1.05rem;
+    right: 0;
+  }
+  .m_pro
+  {
+    min-height: 7.3rem;
+  }
+  .m_pro li {
+    width: 2rem;
+    margin: 0.25rem 0.6rem 0.25rem 0;
+  }
+  .m_pro li:nth-child(3n+3) {
+    margin-right: 0;
+  }
+  .m_pro li p {
+    width: 100%;
+    height: 0.45rem;
+    font-size: 0.21rem;
+    line-height: 0.36rem;
+  }
+  .m_page {
+    margin: 0 0.2rem;
+  }
+  .m_page a {
+    width: 1.5rem;
+    height: 0.46rem;
+    line-height: 0.46rem;
+    border-radius: 0.2rem;
+    font-size: 0.21rem;
+    display: inline-block;
+    margin: 0 0.2rem;
+  }
+  .m_news {
+    margin: 0.3rem 0 0;
+    min-height: 5.5rem;
+  }
+  .m_news li {
+    margin-bottom: 0.36rem;
+  }
+  .m_news .m_news_pic {
+    width: 2.6rem;
+  }
+  .m_news .m_news_pic img {
+    border-radius: 0.2rem;
+  }
+  .m_news .m_news_con {
+    width: 4.45rem;
+  }
+  .m_news .m_news_con h3 span {
+    width: 100%;
+    line-height: 0.48rem;
+    padding: 0 0.1rem;
+    border-radius: 0.1rem;
+  }
+  .m_news .m_news_con h3 em {
+    display: none;
+  }
+  .m_news .m_news_con > div {
+    font-size: 0.21rem;
+    line-height: 0.4rem;
+    height: 0.95rem;
+    margin: 0.15rem 0 0;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 5px;
+  }
+  .type1 {
+    width: 3.27rem;
+    line-height: 2.6;
+    background: url("../images/phone_type1.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type1.png*/ no-repeat;
+    background-size: 100% 100%;
+    margin: 0 auto;
+  }
+  .m_job {
+    margin: 0.3rem 0 0;
+  }
+  .m_job ul {
+    flex-wrap: wrap;
+  }
+  .m_job li {
+    width: 100%;
+    margin-bottom: 0.3rem;
+    margin-right: 0;
+  }
+  .m_job li > h3 {
+    font-size: 0.21rem;
+    line-height: 0.6rem;
+    margin-bottom: 0.1rem;
+  }
+  .m_job li .m_job_tit {
+    width: 0.45rem;
+    height: 2.62rem;
+    font-size: 0.21rem;
+    padding: 5% 0 0 0.05%;
+    letter-spacing: 0.05rem;
+  }
+  .m_job li .m_job_con {
+    width: 6.66rem;
+  }
+  .m_job li .m_job_con .m_job_txt {
+    padding: 0.25rem;
+    height: 2.07rem;
+  }
+  .m_job li .m_job_con .m_job_txt > div {
+    font-size: 0.21rem;
+    line-height: 0.36rem;
+    height: 1.44rem;
+  }
+  .m_job li .job_tel {
+    line-height: 0.46rem;
+    font-size: 0.21rem;
+    margin: 0.1rem 0 0;
+  }
+  .m_join_tit {
+    font-size: 0.28rem;
+  }
+  .m_join_list {
+    width: 100%;
+    justify-content: center;
+    overflow-y: scroll;
+  }
+  .m_join_list li {
+    width: 33.333%;
+    margin-bottom: 0.2rem;
+  }
+  .m_join_list li img {
+    width: 0.64rem;
+  }
+  .m_join_list li h4 {
+    font-size: 0.28rem;
+    margin: 2% 0;
+  }
+  .m_join_list li p {
+    font-size: 0.22rem;
+  }
+  .m_marking {
+    flex-direction: column;
+  }
+  .m_map {
+    width: 100%;
+  }
+  .phone_bar {
+    overflow-y: scroll;
+  }
+  .m_marking {
+    padding: 0.1rem 0 0.5rem;
+  }
+  .m_marking_con {
+    width: 5.7rem;
+    margin: 1% 0 0;
+  }
+  .m_marking_con h4 {
+    font-size: 0.28rem;
+  }
+  .m_marking_con > div {
+    font-size: 0.21rem;
+  }
+  .m_contact {
+    flex-direction: column;
+  }
+  .m_contact_con {
+    width: 6.8rem;
+    margin: 0 auto;
+    border-radius: 0.1rem;
+  }
+  .m_contact_list li {
+    font-size: 0.21rem;
+  }
+  .m_contact_list li img {
+    width: 0.3rem;
+    margin-right: 0.3rem;
+  }
+  .m_message {
+    width: 6.8rem;
+    margin: 3% auto 0;
+  }
+  .phone_about_txt {
+    height: 7.2rem;
+  }
+}
