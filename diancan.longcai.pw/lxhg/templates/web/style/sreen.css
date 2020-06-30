@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
+/* CSS Document 移动端样式 */ 
 @media only screen and (max-width: 1680px) {
   .news_list_date h2 {
     font-size: 38px;
@@ -201,27 +201,20 @@
     background: url('../images/nav.png') no-repeat;
     background-size: 100% 100%;
   }
-  /* .page2 {
-    background: url("../images/phone_bg02.jpg") no-repeat;
-    background-size: 100% 100%;
-  } */
   .page3 {
-    background: url("../images/phone_bg03.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg03.jpg*/ no-repeat;
+    background: url("../images/phone_bg03.png") no-repeat;
     background-size: 100% 100%;
   }
   .page4 {
-    background: url("../images/news-bg.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg04.jpg*/ no-repeat;
+    background: url("../images/news-bg.png") no-repeat;
     background-size: 100% 100%;
   }
-  /* .page5 {
-    background: #000;
-  } */
   .page6 {
-    background: url("../images/jiameng-bg.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg06.jpg*/ no-repeat;
+    background: url("../images/jiameng-bg.png") no-repeat;
     background-size: 100% 100%;
   }
   .page7 {
-    background: url("../images/phone_bg07.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_bg07.jpg*/ no-repeat;
+    background: url("../images/phone_bg07.png") no-repeat;
     background-size: 100% 100%;
   }
   .wrap_box {
@@ -356,7 +349,7 @@
   }
   .development_list {
     width: 4.45rem;
-    background: url("../images/bor.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/bor.png*/ no-repeat 0.4% top;
+    background: url("../images/bor.png") no-repeat 0.4% top;
     background-size: 0.17rem;
   }
   .development_list .swiper-container {
@@ -369,7 +362,7 @@
     font-size: 0.28rem;
   }
   .development_list ul li .development_con {
-    background: url("../images/dot.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/dot.png*/ no-repeat left 0.13rem;
+    background: url("../images/dot.png") no-repeat left 0.13rem;
     background-size: 0.2rem;
     padding-left: 12%;
   }
@@ -580,7 +573,7 @@
     font-size: 0.21rem;
   }
   .main_bg {
-    background: url("../images/phone_main_bg.jpg")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_main_bg.jpg*/ no-repeat;
+    background: url("../images/phone_main_bg.jpg") no-repeat;
     background-size: 100% 100%;
   }
   .type {
@@ -594,18 +587,18 @@
   }
   .type li {
     width: 3.27rem;
-    background: url("../images/phone_type1.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type1.png*/ no-repeat;
+    background: url("../images/phone_type1.png") no-repeat;
     background-size: 100% 100%;
     font-size: 0.21rem;
     height: 0.5rem;
     line-height: 2.3;
   }
   .type li:hover {
-  background: url("../images/phone_type2.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type2.png*/ no-repeat;
+  background: url("../images/phone_type2.png") no-repeat;
   background-size: 100% 100%;
 }
 .type li.active {
-  background: url("../images/phone_type2.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type2.png*/ no-repeat;
+  background: url("../images/phone_type2.png") no-repeat;
   background-size: 100% 100%;
 }
   .type li .swiper-button-prev,
@@ -638,11 +631,11 @@
     margin: 0;
   }
   .phone_m_development .swiper-button-prev {
-    background: url("../images/main13.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/main13.png*/ no-repeat;
+    background: url("../images/main13.png") no-repeat;
     background-size: 100%;
   }
   .phone_m_development .swiper-button-next {
-    background: url("../images/main14.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/main14.png*/ no-repeat;
+    background: url("../images/main14.png") no-repeat;
     background-size: 100%;
   }
   .phone_m_development li {
@@ -668,7 +661,7 @@
     margin: 0 auto;
   }
   .phone_m_development li .phone_m_development_con > div {
-    background: url("../images/phone_year.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_year.png*/ no-repeat;
+    background: url("../images/phone_year.png") no-repeat;
     background-size: 100%;
     width: 2.34rem;
     height: 0.42rem;
@@ -752,7 +745,7 @@
   .type1 {
     width: 3.27rem;
     line-height: 2.6;
-    background: url("../images/phone_type1.png")/*tpa=http://diancan.longcai.pw/lxhg/templates/web/images/phone_type1.png*/ no-repeat;
+    background: url("../images/phone_type1.png") no-repeat;
     background-size: 100% 100%;
     margin: 0 auto;
   }

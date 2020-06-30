@@ -1,3 +1,4 @@
+// 一开始的时候动画效果并不会出现,只有当界面滚动的时候或者是当达到一定的值得时候才会出现动画效果 WOW要配合animate.css使用!
 $(function () {
 	var wow = new WOW({
 		boxClass: 'wow',

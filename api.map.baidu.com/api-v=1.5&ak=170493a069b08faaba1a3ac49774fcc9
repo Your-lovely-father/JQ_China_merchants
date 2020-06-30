@@ -1,1 +1,4 @@
+/* 
+ * 解决网页加载百度地图加载不出来
+ */
 (function(){ window.BMap_loadScriptTime = (new Date).getTime(); document.write('<script type="text/javascript" src="http://api.map.baidu.com/getscript?v=1.5&ak=170493a069b08faaba1a3ac49774fcc9&services=&t=20200103043939"></script>');})();

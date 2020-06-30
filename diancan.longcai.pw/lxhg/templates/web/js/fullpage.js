@@ -1,7 +1,4 @@
 /* 
- * Chriswang
- * 396276123@qq.com
- * 2014.11.28
  * Github:https://github.com/powy1993/fullpage
  */
 
