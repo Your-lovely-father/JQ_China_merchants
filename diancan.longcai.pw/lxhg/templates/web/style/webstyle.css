@@ -940,7 +940,7 @@ em {
   background-size: 100%;
 }
 .m_development .swiper-container {
-  padding: 165px 0;
+  padding: 180px 0;
 }
 .m_development li {
   text-align: center;
@@ -966,7 +966,7 @@ em {
 }
 .m_development_con em {
   width: 1px;
-  height: 60px;
+  height: 35px;
   background: #e60021;
   display: block;
   margin: 0 auto;
