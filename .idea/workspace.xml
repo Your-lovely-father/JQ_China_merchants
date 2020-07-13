@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72136432-01d2-4cf0-9424-da8162643d52" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=about&amp;lanmu=3&amp;id=1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=about&amp;lanmu=3&amp;id=1.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=about&amp;lanmu=3&amp;id=23.htm" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=about&amp;lanmu=3&amp;id=23.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/images/ip-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/images/ip-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/webstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/webstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="121" column="55" selection-start-line="121" selection-start-column="55" selection-end-line="121" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -28,6 +36,7 @@
       <find>2013年7月6日</find>
       <find>templates/web/images/development_tit.png</find>
       <find>templates/web/images/logo-ip.png</find>
+      <find>下载应用</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -79,6 +88,17 @@
               <item name="JQ_China_merchants" type="b2602c69:ProjectViewProjectNode" />
               <item name="JQ_China_merchants" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JQ_China_merchants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQ_China_merchants" type="462c0819:PsiDirectoryNode" />
+              <item name="diancan.longcai.pw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JQ_China_merchants" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQ_China_merchants" type="462c0819:PsiDirectoryNode" />
+              <item name="diancan.longcai.pw" type="462c0819:PsiDirectoryNode" />
+              <item name="lxhg" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +142,9 @@
       <workItem from="1593770986979" duration="821000" />
       <workItem from="1594084413711" duration="2705000" />
       <workItem from="1594086775432" duration="6167000" />
-      <workItem from="1594089382974" duration="3559000" />
+      <workItem from="1594089382974" duration="3644000" />
+      <workItem from="1594601319019" duration="7000" />
+      <workItem from="1594602433168" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="修改样式">
       <created>1593524108609</created>
@@ -166,14 +188,22 @@
       <option name="project" value="LOCAL" />
       <updated>1594083899271</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改内容">
+      <created>1594089497759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594089497759</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15830000" />
+    <option name="totallyTimeSpent" value="16039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.27871445" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.16332982" />
@@ -203,7 +233,8 @@
     <MESSAGE value="内容修改" />
     <MESSAGE value="真实内容添加" />
     <MESSAGE value="添加内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加内容" />
+    <MESSAGE value="修改内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改内容" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/swiper.min.css">
