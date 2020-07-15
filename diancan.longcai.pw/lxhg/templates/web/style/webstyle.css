@@ -278,6 +278,8 @@ em {
 .nav_list {
   width: 64.70588235%;
   margin: 5% auto 3%;
+  display: flex;
+  justify-content: center;
 }
 .nav_list li {
   width: 12.5%;

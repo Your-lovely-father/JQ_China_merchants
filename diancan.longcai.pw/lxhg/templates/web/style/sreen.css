@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document 移动端样式 */ 
+/* CSS Document 移动端样式 */
 @media only screen and (max-width: 1680px) {
   .news_list_date h2 {
     font-size: 38px;
@@ -302,7 +302,7 @@
     line-height: 0.42rem;
   }
   .logo_box {
-    width: 5.3rem;
+    width: 3.3rem;
   }
   .biglogo,
   .tel {
