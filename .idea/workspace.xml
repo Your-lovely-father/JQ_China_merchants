@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="72136432-01d2-4cf0-9424-da8162643d52" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=lxwm&amp;lanmu=4&amp;id=30.htm" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=lxwm&amp;lanmu=4&amp;id=30.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/webstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/webstyle.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="821">
-              <caret line="141" column="71" selection-start-line="141" selection-start-column="71" selection-end-line="141" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/sreen.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="303" column="13" lean-forward="true" selection-start-line="303" selection-start-column="13" selection-end-line="303" selection-end-column="13" />
+            <state relative-caret-position="409">
+              <caret line="102" column="32" lean-forward="true" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -47,6 +38,9 @@
       <find>下载应用</find>
       <find>.subnav</find>
       <find>subnav</find>
+      <find>.logo_box</find>
+      <find>templates/web/images/map.png</find>
+      <find>白总</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -55,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=products_show&amp;id=141&amp;lanmu=2&amp;c_id=6.htm" />
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=products_list&amp;lanmu=2&amp;c_id=5&amp;page=1.htm" />
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=products_show&amp;lanmu=2&amp;c_id=10&amp;id=85.htm" />
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=products_show&amp;id=160&amp;lanmu=2&amp;c_id=1.htm" />
@@ -104,8 +97,9 @@
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=products_list&amp;lanmu=2&amp;c_id=14&amp;page=1.htm" />
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=products_show&amp;id=135&amp;lanmu=2&amp;c_id=6.htm" />
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/webstyle.css" />
-        <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm" />
         <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/sreen.css" />
+        <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php-p=lxwm&amp;lanmu=4&amp;id=30.htm" />
+        <option value="$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm" />
       </list>
     </option>
   </component>
@@ -133,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,7 +217,10 @@
       <workItem from="1594602433168" duration="117000" />
       <workItem from="1594603890871" duration="373000" />
       <workItem from="1594774209247" duration="3095000" />
-      <workItem from="1594777342652" duration="868000" />
+      <workItem from="1594777342652" duration="955000" />
+      <workItem from="1594774507181" duration="93000" />
+      <workItem from="1594774607182" duration="12000" />
+      <workItem from="1594774638105" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="修改样式">
       <created>1593524108609</created>
@@ -288,17 +285,24 @@
       <option name="project" value="LOCAL" />
       <updated>1594776923933</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改页面">
+      <created>1594777048199</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594777048199</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20375000" />
+    <option name="totallyTimeSpent" value="20944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.24077977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.12118019" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.16332982" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -362,17 +366,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="141" column="71" selection-start-line="141" selection-start-column="71" selection-end-line="141" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/templates/web/style/sreen.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="303" column="13" lean-forward="true" selection-start-line="303" selection-start-column="13" selection-end-line="303" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/diancan.longcai.pw/lxhg/index.php.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="102" column="32" lean-forward="true" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
         </state>
       </provider>
     </entry>
