@@ -282,13 +282,14 @@ em {
   justify-content: center;
 }
 .nav_list li {
-  width: 12.5%;
+  /*width: 12.5%;*/
   text-align: center;
   float: left;
   font-size: 16px;
   background: url("../images/nav_bor.jpg") no-repeat right center;
   padding: 0 45px;
   line-height: 1.5;
+  white-space: nowrap;
 }
 .nav_list li:last-child {
   background: none;
