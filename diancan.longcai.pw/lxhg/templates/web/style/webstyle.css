@@ -795,9 +795,12 @@ em {
   width: 72.05882353%;
 }
 .main_nav li {
+  width: 150px;
   text-align: center;
   padding: 2.2% 0 0;
   position: relative;
+  display: flex;
+  justify-content: center;/*  -----   */
 }
 .main_nav li span {
   font-size: 12px;
@@ -817,7 +820,7 @@ em {
 }
 .subnav{
   width: 150px;
-  left: -60%;
+  left: 0;
   top:100%;
   position: absolute;
   display: none;

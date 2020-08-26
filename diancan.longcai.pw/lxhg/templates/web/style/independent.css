@@ -1,0 +1,237 @@
+@media only screen and (max-width: 1024px) {
+    .box {
+        font-size: 0.24rem;
+        display: flex;
+        flex-flow: wrap;
+    }
+    .box>.img_content>img{
+        width: 400px;
+        height: 300px;
+    }
+}
+.box{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.img_content>img{
+    width: 500px;
+    height: 420px;
+}
+.text_content{
+    width: 50%;
+}
+.title{
+    display: flex;
+    height: 30px;
+    align-items: center;
+}
+.title>img{
+    width: 15px;
+    height: 15px;
+    display: block;
+}
+.title>p{
+    font-weight: bold;
+    margin-left: 15px;
+}
+.progress{
+    width: 100%;
+    height: 460px;
+    display: flex;
+    align-items: center;
+}
+.progress_box{
+    width: 100%;
+    height: 2px;
+    background: white;
+    position: relative;
+}
+.img_1{
+    position: absolute;
+    top: -14px;
+    left: 15%;
+}
+.img_2{
+    position: absolute;
+    top: -14px;
+    left: 37%;
+}
+.img_3{
+    position: absolute;
+    top: -14px;
+    left: 59%;
+}
+.img_4{
+    position: absolute;
+    top: -14px;
+    right: 15%;
+}
+.img_1>img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    position: relative;
+}
+.img_1>p{
+    margin-left: -10px;
+}
+.text_content_box{
+    width: 2px;
+    height: 100px;
+    background: #ffffff;
+    position: absolute;
+    top: -100px;
+    left: 14px;
+}
+.box_text{
+    position: relative;
+}
+.box_text>p{
+    width: 200px;
+    position: absolute;
+    top: -60px;
+    left: -80px;
+}
+.img_2>img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    position: relative;
+}
+.img_2>p{
+    margin-left: -10px;
+    position: absolute;
+    top:-28px;
+    width: 55px;
+}
+.box_text_bottom{
+    width: 2px;
+    height: 100px;
+    background: #ffffff;
+    margin-left: 14px;
+}
+.box_text_bottom{
+    position: relative;
+}
+.box_text_bottom>p{
+    width: 200px;
+    position: absolute;
+    top: 105px;
+    left: -80px;
+}
+.img_3>img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    position: relative;
+}
+.img_3>p{
+    margin-left: -8px;
+}
+.img_4>img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    position: relative;
+}
+.img_4>p{
+    margin-left: -10px;
+    position: absolute;
+    top:-28px;
+    width: 55px;
+}
+.top>p{
+    width: 200px;
+    position: absolute;
+    top: -33px;
+    left: -80px;
+}
+.left>p{
+    width: 200px;
+    position: absolute;
+    top: 105px;
+    left: -100px;
+}
+.web_App{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.wire{
+    width: 2px;
+    background: #ffffff;
+    height: 403px;
+    position: relative;
+}
+.wire_img1>img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: -10px;
+    left: -14px;
+}
+.wire_text{
+    position: relative;
+}
+.text_box{
+    width: 200px;
+    position: absolute;
+    top: -10px;
+    left: -220px;
+}
+.text_box>p{
+    text-align: right;
+}
+.wire_img2>img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 100px;
+    left: -14px;
+}
+.wire_text1{
+    position: relative;
+}
+.text_box1{
+    width: 200px;
+    position: absolute;
+    top: 102px;
+    left: 20px;
+}
+.wire_img3>img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 250px;
+    left: -14px;
+}
+.wire_text2{
+    position: relative;
+}
+.text_box2{
+    width: 200px;
+    position: absolute;
+    top: 250px;
+    left: -220px;
+}
+.text_box2>p{
+    text-align: right;
+}
+.wire_img4>img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 380px;
+    left: -14px;
+}
+.wire_text3{
+    position: relative;
+}
+.text_box3{
+    width: 200px;
+    position: absolute;
+    top: 380px;
+    left:20px;
+}
